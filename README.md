@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I love making art with code.
+- Sometimes I make things for businesses.
+
 <!--
 **robertstipp/robertstipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
